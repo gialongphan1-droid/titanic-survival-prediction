@@ -32,6 +32,7 @@ titanic-survival-prediction/
 │   └── figures/
 ├── scripts/           # Script tiện ích (download, ...)
 ├── src/               # Code chính: preprocess, train, predict
+├── test/              # Unit test cho code trong src/
 ├── requirements.txt   # Thư viện cần cài
 └── README.md
 ```
